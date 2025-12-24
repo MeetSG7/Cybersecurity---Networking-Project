@@ -78,14 +78,7 @@ your organizations for reducing some Attacks and unauthorized access.
 > Configure Firewall: Enable and properly configured firewall to filter
 > traffic and block unauthorized access.
 >
-> **<u>Q-7. Implement Basic Security Measure.</u>**
->
-> \[Set up a simple network environment, such as your home network or a
-> virtual lab with a router and one or two connected devices.\]
->
-> Ans: Pending
->
-> **<u>Q-8. Enable and configure a basic firewall (e.g., Windows
+>**<u>Q-7. Enable and configure a basic firewall (e.g., Windows
 > Defender Firewall) to</u>** **<u>block unauthorized access.</u>**
 >
 > **Ans:**
@@ -141,16 +134,8 @@ style="width:6.49583in;height:5.26111in" />
 
 > 9\) Give Name: Telnet 10)Next.
 
-**<u>Q-9. Set Up Basic Security Configurations, Such As Changing Default
-Passwords</u>** **<u>And Enabling Network Encryption (WPA2 OR
-WPA3).</u>**
 
-**Ans**: Pending
-
-<img src="./dwzw0lwc.png"
-style="width:6.49583in;height:2.44375in" />
-
-**<u>Q-10. Monitor Network Traffic.</u>**
+**<u>Q-8. Monitor Network Traffic.</u>**
 
 **<u>o Use Wireshark to capture and analyze network traffic.</u>**
 
